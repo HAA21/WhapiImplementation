@@ -1,4 +1,4 @@
-# Whapi_implementation
+# WhapiImplementation
 
 Following the pointers below to run the Whapi API:
 
